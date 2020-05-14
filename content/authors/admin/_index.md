@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Hudson Stuck
 
 # Username (this should match the folder name)
 authors:
