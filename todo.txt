@@ -1,0 +1,4 @@
+- remove swift skill '10%'
+- add more relevant skills
+- link projects
+- add a section for my photos?

@@ -18,24 +18,32 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = ""
+  description = " "
   
 [[feature]]
   icon = "database"
   icon_pack = "fas"
   name = "SQL"
-  description = ""  
-
-[[feature]]
-  icon = "git"
-  icon_pack = "fab"
-  name = "Git"
-  description = ""  
+  description = " "  
 
 [[feature]]
   icon = "swift"
   icon_pack = "fab"
   name = "Swift"
-  description = "10%"
+  description = " "
+  
+[[feature]]
+  icon = "java"
+  icon_pack = "fab"
+  name = "Java"
+  description = " "
+
+[[feature]]
+  icon = "git"
+  icon_pack = "fab"
+  name = "Git"
+  description = " "  
+
+
 
 +++
